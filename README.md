@@ -1,2 +1,2 @@
 # StateEstimaiton
-State estimation of multi-channel networked discret event system which implemented by C
+State estimation of multi-channel networked discrete event system which implemented by C
